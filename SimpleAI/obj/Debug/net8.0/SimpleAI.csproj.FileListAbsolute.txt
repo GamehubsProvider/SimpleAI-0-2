@@ -1,0 +1,15 @@
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/bin/Debug/net8.0/SimpleAI
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/bin/Debug/net8.0/SimpleAI.deps.json
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/bin/Debug/net8.0/SimpleAI.runtimeconfig.json
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/bin/Debug/net8.0/SimpleAI.dll
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/bin/Debug/net8.0/SimpleAI.pdb
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/SimpleAI.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/SimpleAI.AssemblyInfoInputs.cache
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/SimpleAI.AssemblyInfo.cs
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/SimpleAI.csproj.CoreCompileInputs.cache
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/SimpleAI.sourcelink.json
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/SimpleAI.dll
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/refint/SimpleAI.dll
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/SimpleAI.pdb
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/SimpleAI.genruntimeconfig.cache
+/workspaces/Simple-AI-XEpsilonX/SimpleAI/obj/Debug/net8.0/ref/SimpleAI.dll
